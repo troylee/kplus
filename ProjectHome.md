@@ -1,0 +1,1 @@
+Kaldi is a great tool for ASR. The design, the implementation and the functionality are fabulous. This project is a collection of code developed specific for our purpose based on Kaldi.
